@@ -11,9 +11,9 @@ Objetivo é utilização dos conceitos de html 5 e css 3 abordados em aula, pelo
 
 ## Imagem do Projeto
 
-[projeto-menu.netlify.app](https://projeto-menu.netlify.app/)
+[projeto-desafio-1.netlify.app](https://desafio-1-ti-academy.netlify.app/)
 
-<img src="https://github.com/jefferson1984/projeto-menu/blob/main/menu2.png">
+<img src="https://github.com/jefferson1984/Desafio-1-TI-Academy/tree/main/img">
 
 
 
